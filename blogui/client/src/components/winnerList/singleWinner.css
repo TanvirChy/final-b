@@ -1,0 +1,32 @@
+.winnerItem{
+    margin: 5px;
+    border: 1px solid gray;
+    color: white;
+    font-weight: 300;
+    border-radius: 5px;
+    background-color: rgba(18, 38, 65, 0.884);
+    margin-bottom: 10px;
+    padding: 30px;
+}
+
+.winnername{
+    
+    margin: 5px;
+    font-size: 40px;
+    font-weight: 300;
+    text-align: center;
+}
+
+.winneremail{
+    margin: 5px;
+   
+    font-size: 40px;
+    font-weight: 300;
+    text-align: center;
+}
+.winnerdesc{
+    margin: 5px;
+    font-size: 30px;
+    font-weight: 300;
+    text-align: center;
+}

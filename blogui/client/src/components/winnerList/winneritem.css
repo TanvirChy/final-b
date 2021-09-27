@@ -1,0 +1,19 @@
+.itemP{
+    padding: 20px;
+    letter-spacing: 2px;
+    text-align: center;
+    font-size: 50px;
+    color:white;
+    background-color: teal;
+}
+
+.itemContainer {
+  height: 100vh;
+  background-color: aqua;
+  display: flex;
+
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: flex-start;
+}
